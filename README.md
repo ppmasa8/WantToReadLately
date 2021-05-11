@@ -15,7 +15,7 @@ Many kinds of APIs list.
 - https://github.com/public-apis/public-apis
 
 
-When I confused about my load, I should read.
+When I confused about my road, I should read.
 - https://github.com/kamranahmedse/developer-roadmap
 
 
