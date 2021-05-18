@@ -25,3 +25,6 @@ Algorithms in the most familiar languages for me.
 
 How to make a game in the most familiar languages for me.
 - https://leanpub.com/developing-games-with-ruby/read
+
+Golang
+- https://github.com/avelino/awesome-go
