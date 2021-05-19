@@ -13,6 +13,7 @@ Knowledge of many techniques about programs.
 
 Many kinds of APIs list.
 - https://github.com/public-apis/public-apis
+- https://www.hpe.com/jp/ja/japan/insights/articles/9-apis-for-the-geekiest-1905.html
 
 
 When I confused about my road, I should read.
