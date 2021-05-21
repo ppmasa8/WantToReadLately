@@ -14,6 +14,7 @@ Knowledge of many techniques about programs.
 Many kinds of APIs list.
 - https://github.com/public-apis/public-apis
 - https://www.hpe.com/jp/ja/japan/insights/articles/9-apis-for-the-geekiest-1905.html
+- https://portal.data.metro.tokyo.lg.jp/opendata-api/
 
 The Metropolitan Museum of Art Collection API
 - https://metmuseum.github.io/
