@@ -21,11 +21,10 @@ The Metropolitan Museum of Art Collection API
 
 Related TMDB
 - https://zenn.dev/gunners6518/books/4c4672f32dd100/viewer/12d870
-- 
+- https://github.com/ricardovasconcelos/Vueflix
 
 When I confused about my road, I should read.
 - https://github.com/kamranahmedse/developer-roadmap
-
 
 Algorithms in the most familiar languages for me.
 - https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby
