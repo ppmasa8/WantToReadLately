@@ -26,12 +26,10 @@ Related TMDB
 When I confused about my road, I should read.
 - https://github.com/kamranahmedse/developer-roadmap
 
-Algorithms in the most familiar languages for me.
+Ruby
 - https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby
-
-
-How to make a game in the most familiar languages for me.
 - https://leanpub.com/developing-games-with-ruby/read
+- https://melborne.github.io/2010/11/10/Ruby-Lisp/
 
 Golang
 - https://github.com/avelino/awesome-go
