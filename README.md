@@ -41,3 +41,6 @@ OSS
 
 flutter
 - https://flutternerd.com/build-a-wallpaper-app-with-flutter-a-flutter-project/
+
+ｚｓｈ
+- https://dev.macha795.com/zsh-prompt-customize/
