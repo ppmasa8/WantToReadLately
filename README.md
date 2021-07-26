@@ -31,6 +31,7 @@ Ruby
 - https://leanpub.com/developing-games-with-ruby/read
 - https://melborne.github.io/2010/11/10/Ruby-Lisp/
 - https://docs.ruby-lang.org/ja/3.0.0/doc/index.html
+- https://qiita.com/littlem/items/3028ee788ff77ebaaa5e
 
 Golang
 - https://github.com/avelino/awesome-go
