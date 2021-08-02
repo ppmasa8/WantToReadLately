@@ -5,6 +5,8 @@ List of very useful documentation for learning programing and improve my program
 How to make C Compiler.
 - https://www.sigbus.info/compilerbook
 
+C practice
+- https://9cguide.appspot.com/index.html
 
 Knowledge of many techniques about programs.
 - https://github.com/danistefanovic/build-your-own-x
