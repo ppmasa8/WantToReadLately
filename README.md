@@ -11,7 +11,7 @@ C practice
 Knowledge of many techniques about programs.
 - https://github.com/danistefanovic/build-your-own-x
 - https://github.com/EbookFoundation/free-programming-books
-
+- https://techdevguide.withgoogle.com/
 
 Many kinds of APIs list.
 - https://github.com/public-apis/public-apis
