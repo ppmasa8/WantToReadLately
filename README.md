@@ -37,6 +37,7 @@ Ruby
 - https://melborne.github.io/2010/11/10/Ruby-Lisp/
 - https://docs.ruby-lang.org/ja/3.0.0/doc/index.html
 - https://qiita.com/littlem/items/3028ee788ff77ebaaa5e
+- https://github.com/PacktPublishing/Polished-Ruby-Programming
 
 Golang
 - https://github.com/avelino/awesome-go
