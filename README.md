@@ -41,6 +41,8 @@ Ruby
 
 Golang
 - https://github.com/avelino/awesome-go
+- https://qiita.com/hyo_07/items/59c093dda143325b1859
+- https://go-tour-jp.appspot.com/welcome/1
 
 OSS
 - https://logmi.jp/tech/articles/322648
