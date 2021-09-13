@@ -1,10 +1,31 @@
 # WantToReadLately
 List of very useful documentation for learning programing and improve my program skills.
 
-## List
-How to make C Compiler.
-- https://www.sigbus.info/compilerbook
+## List (🔵Todo、✅Done)
+CS for systematic learning
+- Compiler
+🔵https://www.sigbus.info/compilerbook
 
+- Operating System
+🔵https://github.com/syarochan/Operating-Systems-Three-Easy-Pieces-in-japanese
+
+- Distributed System
+🔵https://teachyourselfcs.com/
+
+- Computer Program
+🔵https://sicp.iijlab.net/fulltext/xcont.html
+
+- NetWork
+🔵https://gaia.cs.umass.edu/kurose_ross/wireshark.php
+
+- Database
+🔵https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
+
+- All of them
+🔵https://teachyourselfcs.com/
+
+
+/* Others */
 C practice
 - https://9cguide.appspot.com/index.html
 
