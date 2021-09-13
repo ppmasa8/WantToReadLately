@@ -4,24 +4,31 @@ List of very useful documentation for learning programing and improve my program
 ## List (🔵Todo、✅Done)
 CS for systematic learning
 - Compiler
+
 🔵https://www.sigbus.info/compilerbook
 
 - Operating System
+
 🔵https://github.com/syarochan/Operating-Systems-Three-Easy-Pieces-in-japanese
 
 - Distributed System
+
 🔵https://teachyourselfcs.com/
 
 - Computer Program
+
 🔵https://sicp.iijlab.net/fulltext/xcont.html
 
 - NetWork
+
 🔵https://gaia.cs.umass.edu/kurose_ross/wireshark.php
 
 - Database
+
 🔵https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
 
 - All of them
+
 🔵https://teachyourselfcs.com/
 
 
@@ -71,5 +78,5 @@ OSS
 flutter
 - https://flutternerd.com/build-a-wallpaper-app-with-flutter-a-flutter-project/
 
-ｚｓｈ
+zsh
 - https://dev.macha795.com/zsh-prompt-customize/
