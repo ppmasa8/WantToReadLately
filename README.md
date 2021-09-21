@@ -67,6 +67,7 @@ Ruby
 - https://docs.ruby-lang.org/ja/3.0.0/doc/index.html
 - https://qiita.com/littlem/items/3028ee788ff77ebaaa5e
 - https://github.com/PacktPublishing/Polished-Ruby-Programming
+- https://qiita.com/t0sh1/items/5e7ecdc8f47505118a1f
 
 Golang
 - https://github.com/avelino/awesome-go
