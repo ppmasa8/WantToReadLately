@@ -26,6 +26,7 @@ CS for systematic learning
 - Database
 
 🔵https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
+
 ✅https://www.youtube.com/watch?v=UWSWKUMd71Q&list=WL&index=2&t=858s
 
 - All of them
