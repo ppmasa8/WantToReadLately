@@ -84,3 +84,6 @@ flutter
 
 zsh
 - https://dev.macha795.com/zsh-prompt-customize/
+
+Any langs
+- https://www.tohoho-web.com/www.htm
