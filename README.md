@@ -87,3 +87,6 @@ zsh
 
 Any langs
 - https://www.tohoho-web.com/www.htm
+
+k8s
+- https://kubernetes.io/ja/docs/tutorials/
