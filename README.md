@@ -44,21 +44,6 @@ Knowledge of many techniques about programs.
 - https://github.com/EbookFoundation/free-programming-books
 - https://techdevguide.withgoogle.com/
 
-Many kinds of API list.
-- https://github.com/public-apis/public-apis
-- https://www.hpe.com/jp/ja/japan/insights/articles/9-apis-for-the-geekiest-1905.html
-- https://portal.data.metro.tokyo.lg.jp/opendata-api/
-
-The Metropolitan Museum of Art Collection API
-- https://metmuseum.github.io/
-
-The most powerful photo images API
-- https://unsplash.com/developers
-
-Related TMDB
-- https://zenn.dev/gunners6518/books/4c4672f32dd100/viewer/12d870
-- https://github.com/ricardovasconcelos/Vueflix
-
 When I confused about my road, I should read.
 - https://github.com/kamranahmedse/developer-roadmap
 
