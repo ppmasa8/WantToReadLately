@@ -37,7 +37,6 @@ CS for systematic learning
 https://metmuseum.github.io/
 
 https://www.programmableweb.com/news/top-10-apis-museums/brief/2020/12/26
-(uncheck)
 
 
 /* Others */
