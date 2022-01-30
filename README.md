@@ -1,37 +1,37 @@
 # WantToReadLately
 List of very useful documentation for learning programing and improve my program skills.
 
-## List (🔵Todo、✅Done)
+## List
 CS for systematic learning
 - Compiler
 
-🔵https://www.sigbus.info/compilerbook
+https://www.sigbus.info/compilerbook
 
 - Operating System
 
-🔵https://github.com/syarochan/Operating-Systems-Three-Easy-Pieces-in-japanese
+https://github.com/syarochan/Operating-Systems-Three-Easy-Pieces-in-japanese
 
 - Distributed System
 
-🔵https://teachyourselfcs.com/
+https://teachyourselfcs.com/
 
 - Computer Program
 
-🔵https://sicp.iijlab.net/fulltext/xcont.html
+https://sicp.iijlab.net/fulltext/xcont.html
 
 - NetWork
 
-🔵https://gaia.cs.umass.edu/kurose_ross/wireshark.php
+https://gaia.cs.umass.edu/kurose_ross/wireshark.php
 
 - Database
 
-🔵https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
+https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
 
-✅https://www.youtube.com/watch?v=UWSWKUMd71Q&list=WL&index=2&t=858s
+https://www.youtube.com/watch?v=UWSWKUMd71Q&list=WL&index=2&t=858s
 
 - All of them
 
-🔵https://teachyourselfcs.com/
+https://teachyourselfcs.com/
 
 - Museum APIs (Commercial use can be)
 https://metmuseum.github.io/
