@@ -41,6 +41,9 @@ https://www.programmableweb.com/news/top-10-apis-museums/brief/2020/12/26
 
 /* Others */
 
+Unix commands
+- http://www.ritsumei.ac.jp/~tomori/unix.html
+
 C practice
 - https://9cguide.appspot.com/index.html
 
