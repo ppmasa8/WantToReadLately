@@ -1,5 +1,5 @@
 # WantToReadLately
-List of very useful documentation for learning programing and improve my program skills.
+List of very useful documentation for learning programing and improve my programming skills.
 
 ## List
 CS for systematic learning
