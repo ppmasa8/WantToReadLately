@@ -2,7 +2,7 @@
 List of very useful documentation for learning programing and improve my programming skills.
 
 ## List
-CS for systematic learning
+Computer Science for systematic learning
 - Compiler
 
 https://www.sigbus.info/compilerbook
