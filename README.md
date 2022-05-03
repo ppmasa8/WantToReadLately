@@ -83,3 +83,6 @@ Any langs
 
 k8s tutorials
 - https://kubernetes.io/ja/docs/tutorials/
+
+Practice data structures
+- https://leetcode.com/
