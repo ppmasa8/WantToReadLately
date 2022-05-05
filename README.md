@@ -86,3 +86,4 @@ k8s tutorials
 
 Practice data structures
 - https://leetcode.com/
+- https://kenkoooo.com/atcoder#/table/
