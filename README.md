@@ -39,7 +39,7 @@ https://metmuseum.github.io/
 https://www.programmableweb.com/news/top-10-apis-museums/brief/2020/12/26
 
 
-/* Others */
+ Others 
 
 Unix commands
 - http://www.ritsumei.ac.jp/~tomori/unix.html
