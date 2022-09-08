@@ -1,4 +1,13 @@
 # WantToReadLately
+
+# My latest trend
+- https://cloud.google.com/training#learning-paths
+
+- https://cloud.google.com/training/data-engineering-and-analytics
+
+- https://cloud.google.com/training/machinelearning-ai
+
+
 List of very useful documentation for learning programing and improve my programming skills　XD.
 
 ## List
