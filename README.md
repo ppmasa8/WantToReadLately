@@ -7,6 +7,8 @@
 
 - https://cloud.google.com/training/machinelearning-ai
 
+- https://d3c33hcgiwev3.cloudfront.net/XZrUMfdWTjGa1DH3Vl4x7A_c999fb9bd6f94d8db2719dc7c59b54a1_M1-_-Reading-list-_-Big-Data-and-Machine-Learning-Fundamentals.pdf?Expires=1662768000&Signature=RmasD27FEfYcJvxmJIfyUIbCUr-6KrLhqcpDwv1k8gSLsfXPWOeZKFQvDVs7Pf8W2GSb3bunWVtqjpSC1e6jiF7rCEE4DVsckeMBqCiyXkKNFOpG1fq2LK21DU50fMmAJELOO2PnaVgJz8~QaksgL3F5RSzXRmb8SySSxkNwS~0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
 
 List of very useful documentation for learning programing and improve my programming skills　XD.
 
