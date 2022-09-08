@@ -1,6 +1,6 @@
 # WantToReadLately
 
-# My latest trend
+## My latest trend
 - https://cloud.google.com/training#learning-paths
 
 - https://cloud.google.com/training/data-engineering-and-analytics
