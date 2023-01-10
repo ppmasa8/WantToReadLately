@@ -97,6 +97,12 @@ Any langs
 k8s tutorials
 - https://kubernetes.io/ja/docs/tutorials/
 
+Linux trouble shooting
+- https://sadservers.com/
+
 Practice data structures
 - https://leetcode.com/
 - https://kenkoooo.com/atcoder#/table/
+
+Quantum computing
+- https://qiskit.org/documentation/locale/ja_JP/qc_intro.html
