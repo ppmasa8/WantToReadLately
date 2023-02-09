@@ -7,6 +7,8 @@
 
 - https://cloud.google.com/training/machinelearning-ai
 
+https://ctf.cpaw.site/index.php
+
 - [reading list](https://d3c33hcgiwev3.cloudfront.net/XZrUMfdWTjGa1DH3Vl4x7A_c999fb9bd6f94d8db2719dc7c59b54a1_M1-_-Reading-list-_-Big-Data-and-Machine-Learning-Fundamentals.pdf?Expires=1662768000&Signature=RmasD27FEfYcJvxmJIfyUIbCUr-6KrLhqcpDwv1k8gSLsfXPWOeZKFQvDVs7Pf8W2GSb3bunWVtqjpSC1e6jiF7rCEE4DVsckeMBqCiyXkKNFOpG1fq2LK21DU50fMmAJELOO2PnaVgJz8~QaksgL3F5RSzXRmb8SySSxkNwS~0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 - [reading list2](https://d3c33hcgiwev3.cloudfront.net/d7gV44wsQCm4FeOMLOApJg_844da9c9c9fc4756b018062b81aff4a1_M2-_-Reading-list-_-Big-Data-and-Machine-Learning-Fundamentals.pdf?Expires=1663027200&Signature=gtLD1W~cw60lBzm1PScocXGtN0yFI2miMtBgeo0-aKDk12QiH2yaReMdAsFC8jEPrXmvDKIKDnKsmA9olD4nMGA8UtlQu1MJG~k4by117nWasSURkg0QrHGe2xwMqZNbP2yBqIk9hb-H8hEoP62jHBQzj6nBDf~AX0D~eoTdtEA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
