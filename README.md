@@ -1,6 +1,8 @@
 # WantToReadLately
 
 ## My latest trend
+- https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main
+ 
 - https://cloud.google.com/training#learning-paths
 
 - https://cloud.google.com/training/data-engineering-and-analytics
